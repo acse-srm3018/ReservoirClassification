@@ -25,11 +25,12 @@ The dataset includes 3250 data within 6 clases that will be used for training AN
 This project aims to solve 2-D wave equation using finite difference. 
 
 An overview of the files is provided below.
-- `src_python/` contains report in pdf format.
-- `src_matlab/` contains the output files from my HPC runs (*.o* files).
-- `images/` contains images and animation which used in report and also ipynb file for generating files.
-- `coursework_parallel.cpp` parallel version code of solving 2D wave equation using finite difference.
-- `document.pdf` animation of wave equation solution
+- `src_python/` contains all python code files
+- `src_matlab/` contains all matlab code files
+- `GenerationData/` contains all codes we used to generate data.
+- `dataset.xlsx` all generated pressure data that use as training and validation dataset.
+- `pressurederivative.xlsx` all pressure derivative that feed as training and validation dataset to network.
+- `document.pdf` contains report in pdf format.
 - `LICENSE.txt` is the MIT license.
 - `README.md` contains basic information for the repository and detailed information for how to compile and reproduce the results.
 -
