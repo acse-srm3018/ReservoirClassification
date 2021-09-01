@@ -22,7 +22,6 @@ and derivative dataset from [Excel file 2](https://github.com/acse-srm3018/Reser
 The dataset includes 3250 data within 6 clases that will be used for training ANN models.
 
 ## Basic information
-This project aims to solve 2-D wave equation using finite difference. 
 
 An overview of the files is provided below.
 - `src_python/` contains all python code files
