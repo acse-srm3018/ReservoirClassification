@@ -51,3 +51,4 @@ git clone https://github.com/acse-srm3018/ReservoirClassification
 
 ## References
 
+*PanSystem. 2018. Reservoir modeling software by Weatherford. https://www.weatherford.com/en/products-and-services/software/production-optimization-platform/reservoir-modeling-and-monitoring/ [accessed May 2018]
