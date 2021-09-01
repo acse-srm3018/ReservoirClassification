@@ -9,16 +9,10 @@ Simulation techniques can be a viable alternative if they can provide accurate p
 
 ## Dataset
 You can download dataset from [Excel file](https://github.com/acse-srm3018/ReservoirClassification/blob/main/dataset.xlsx).
-
 You can download pressure derivative dataset from [Excel file](https://github.com/acse-srm3018/ReservoirClassification/blob/main/dataset.xlsx).
+The dataset includes 3250 data within 6 clases that will be used for training ANN models.
 
 
-The dataset includes 214 training and 15 testing data that will be used for training ANN models.
-
- Trainging dataset:
-    The training dataset is 214 set of parameters as input data and their corresponding RF and flow rate as the target. 
- Test dataset:
-    The training dataset is 15 set of parameters as input data and their corresponding RF and flow rate as the target.
 ## Models Comparsion and choosing
 
 We trained different models to compare them and find the best ones based on their performance. 
