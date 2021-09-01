@@ -25,15 +25,11 @@ The dataset includes 3250 data within 6 clases that will be used for training AN
 This project aims to solve 2-D wave equation using finite difference. 
 
 An overview of the files is provided below.
-- `report/` contains report in pdf format.
-- `log/` contains the output files from my HPC runs (*.o* files).
+- `src_python/` contains report in pdf format.
+- `src_matlab/` contains the output files from my HPC runs (*.o* files).
 - `images/` contains images and animation which used in report and also ipynb file for generating files.
-- `hpc job file/` contains jobs which used for running in HPC system.
-- `Serial_Array.cpp` serial version code of solving 2D wave equation using finite difference using vector.
-- `Serial_Wave_Equation.cpp` serial version code of solving 2D wave equation using finite difference using 1-D array.
 - `coursework_parallel.cpp` parallel version code of solving 2D wave equation using finite difference.
-- `post_processing.ipynb` jupyter notebook of postrprocessing.
-- `animation.gif` animation of wave equation solution
+- `document.pdf` animation of wave equation solution
 - `LICENSE.txt` is the MIT license.
 - `README.md` contains basic information for the repository and detailed information for how to compile and reproduce the results.
 -
