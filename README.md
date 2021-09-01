@@ -3,7 +3,7 @@
 
 
 **Note:**
-This project was published in [Advances in Geo-Energy Research](https://www.yandy-ager.com/index.php/ager/article/view/252).
+This project was published in [Advances in Geo-Energy Research](https://link.springer.com/article/10.1007/s12517-021-06559-9).
 
 ## Project description
 Horizontal wells sense multiple points without need to drill additional vertical wells became economically viable after 1980s. Characterization of this system is required for estimation their production ability, management their behaviors, and designing enhanced recovery scenarios. Well testing signals are the most valuable source of information for characterization of hydrocarbon reservoirs having horizontal wells. Estimation of reservoir parameters as well as extent of reliability of this estimation directly depends on correct detection of reservoir interpretation model.  Indeed, it is traditional to detect reservoir model using well testing analysis prior to starting parameter estimation.
