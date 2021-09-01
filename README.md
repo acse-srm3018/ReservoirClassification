@@ -19,17 +19,12 @@ The dataset includes 3250 data within 6 clases that will be used for training AN
 
 ## Models Comparsion and choosing
 
-We trained different models to compare them and find the best ones based on their performance. 
+We trained different models with different number of neurons in hidden layers to compare them and find the best ones based on their performance. 
 
-The images of performance of different models on original datasets can be find under [images](https://github.com/acse-srm3018/FoamCO2Prediction/tree/main/images) directory. Based on the comparison of the accuracy and loss of the training and validation data, the ... and ... models were idetified as the best.
-
-## Model Properties 
-
-The results of the grid search is given in the tables which can be found in the [supplementary files](https://github.com/acse-srm3018/FoamCO2Prediction/tree/main/supplemantaryfile) directory.
         
 ## Data Preprocessing
 
-Mean and standard deviation, Max and min of training and validation set were calcualted. Then pressure data standardized and normalized using these statistical values.
+Mean and standard deviation, Max and min of training and validation set were calcualted. Then pressure derivative data standardized and normalized using these statistical values.
             
 
 ## Installation
@@ -37,26 +32,12 @@ Mean and standard deviation, Max and min of training and validation set were cal
 you can clone and open directories using
 
 ```
-git clone https://github.com/acse-srm3018/FoamCO2Prediction
-```
-
-## Unit testing
-
-To run the unit test suite
-```
-python tests.py
+git clone https://github.com/acse-srm3018/ReservoirClassification
 ```
 
 ## Documentation
 
-To generate the documentation (in html format)
-```
-python -m sphinx docs html
-```
-
-See the `docs` directory for the preliminary documentation provided that you should add to.
-
-Also the articles published and can be found [here](https://github.com/acse-srm3018/ReservoirClassification/blob/main/document.pdf).
+ The articles published and can be found [here](https://github.com/acse-srm3018/ReservoirClassification/blob/main/document.pdf).
 
 
 ## Further investigation
