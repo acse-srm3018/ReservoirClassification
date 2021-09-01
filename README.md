@@ -8,7 +8,10 @@ CO2 injection into sub-surface oil reservoirs is a well-established technique fo
 Simulation techniques can be a viable alternative if they can provide accurate predictions of flow rate and recovery factor from a standard set of input variables. Here, we couple a radial basis function (RBF) with evolutionary algorithms (particle swarm, imperialist competitive, genetic and teaching-learning based) to develop four hybrid-RBF prediction networks and apply them to predict efficiency of foam-CO2 flooding in oil reservoirs. A dataset with 214 published data records was compiled and used to train, optimize and test the four hybrid-RBF networks. The teaching-learning-based optimized (TLBO-RBF) model achieved the most accurate prediction performance for estimating oil flow rate (RMSE =0.0029, R2 = 0.993) oil recovery factor (RMSE =0.0872, R2 = 0.998) for the foam-CO2 injection EOR dataset. It can therefore be considered as another algorithm to estimate the performance of foam-CO2 injection in oil reservoirs efficiently while experimental data is not available.
 
 ## Dataset
-You can download dataset from [Excel file](https://github.com/acse-srm3018/FoamCO2Prediction/blob/main/Data.xlsx).
+You can download dataset from [Excel file](https://github.com/acse-srm3018/ReservoirClassification/blob/main/dataset.xlsx).
+
+You can download pressure derivative dataset from [Excel file](https://github.com/acse-srm3018/ReservoirClassification/blob/main/dataset.xlsx).
+
 
 The dataset includes 214 training and 15 testing data that will be used for training ANN models.
 
