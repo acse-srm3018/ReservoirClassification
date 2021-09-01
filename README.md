@@ -9,6 +9,9 @@ The multi-layer perceptron (MLP) neural network have widely used for pattern rec
 
 Considering some statistical and computational criteria, the multi-layer perceptron (MLP) neural network model with five hidden neurons trained with the scaled conjugate gradient are chosen as a best intelligent model for the considered task. This model provides total classification accuracy (TCA) of 98.3%, mean square errors (MSE) of 0.00725, and regression coefficient (R2) of 0.97332. Finally the developed model has been examined using real field data, noisy data and some data sets outside the range of train and test data. In all cases, the network was able to detect the correct reservoir model with the probability near to 90%.
 
+## Data generation
+The data was generated using PanSystem and then we used a QTBindCode using C to automatically generated data (pressure data). The codes can be found [here]()
+
 
 ## Dataset
 You can download dataset from [Excel file 1](https://github.com/acse-srm3018/ReservoirClassification/blob/main/dataset.xlsx).
