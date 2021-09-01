@@ -52,3 +52,6 @@ git clone https://github.com/acse-srm3018/ReservoirClassification
 ## References
 
 * PanSystem. 2018. Reservoir modeling software by Weatherford. https://www.weatherford.com/en/products-and-services/software/production-optimization-platform/reservoir-modeling-and-monitoring/ [accessed May 2018]
+* Tian, C. and Horne, R.N., 2017. Recurrent Neural Networks for Permanent Downhole Gauge Data Analysis. SPE-187181-MS. Society of Petroleum Engineers Annual Technical Conference and Exhibition, 9-11 October, 2017 San Antonio, Texas, USA  12 pages. https://doi.org/10.2118/187181-MS 
+* Tian, C., 2018. Machine Learning Approaches For Permanent Downhole Gauge Data Interpretation (Doctoral dissertation, Stanford University), 199 pages.  https://pangea.stanford.edu/ERE/pdf/pereports/PhD/Tian_Chuan2018.pdf
+
