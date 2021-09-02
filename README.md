@@ -52,7 +52,7 @@ git clone https://github.com/acse-srm3018/ReservoirClassification
 
 ## Further investigation
 
-- Increasing number of data in dataset preparing more data using simulator or real labratory data.
+- Trying different type of Neural Network like Convolutional Neural Network.
 
 ## References
 
