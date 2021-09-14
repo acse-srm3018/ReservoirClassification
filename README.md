@@ -47,7 +47,7 @@ git clone https://github.com/acse-srm3018/ReservoirClassification
 
 ## Documentation
 
- The articles published and can be found [here](https://github.com/acse-srm3018/ReservoirClassification/blob/main/document.pdf).
+ The articles published and can be found [here](https://github.com/acse-srm3018/ReservoirClassification/blob/main/document.pdf)
 
 
 ## Further investigation
