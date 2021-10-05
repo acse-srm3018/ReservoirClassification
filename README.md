@@ -32,7 +32,7 @@ An overview of the files is provided below.
 - `GenerationData/` contains all codes we used to generate data.
 - `dataset.xlsx` all generated pressure data that use as training and validation dataset.
 - `pressurederivative.xlsx` all pressure derivative that feed as training and validation dataset to network.
-- `document.pdf` report in pdf format.
+- `document.pdf` report in pdf format
 - `LICENSE.txt` is the MIT license.
 - `README.md` contains basic information for the repository and detailed information for how to compile and reproduce the results.
 
