@@ -34,7 +34,7 @@ An overview of the files is provided below.
 - `pressurederivative.xlsx` all pressure derivative that feed as training and validation dataset to network.
 - `document.pdf` report in pdf format
 - `LICENSE.txt` is the MIT license.
-- `README.md` contains basic information for the repository and detailed information for how to compile and reproduce the results.
+- `README.md` contains basic information for the repository and detailed information that shows how to compile and reproduce the results.
 
 
 ## Installation
